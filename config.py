@@ -1,1 +1,1 @@
-# api_key = <YOUR API KEY HERE >
+api_key = 'b2e105b64268f4732a6091bfa9b7c197'
